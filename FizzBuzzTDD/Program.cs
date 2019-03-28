@@ -13,6 +13,7 @@ namespace FizzBuzzTDD
         {
             for (int i = 0; i <= 100; i++)
             {
+                //cannot add FIzzBuzzLibrary because of different versions, thanks VISUAL STUDIO!
                 //Console.WriteLine(FizzBuzer.GetValue(i).ToString);
             }
             Console.ReadKey();
